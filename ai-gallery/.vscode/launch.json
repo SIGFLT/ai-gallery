@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "d:\\Downloads\\aislop_gallery\\index.html"
+            "file": "d:\\Downloads\\ai_gallery\\index.html"
         }
     ]
 }
